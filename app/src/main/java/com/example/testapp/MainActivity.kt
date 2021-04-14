@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("tagmy","ok tag2")
         var Var="ndska"
+        var name="Brahmleen"
 
     }
 }
