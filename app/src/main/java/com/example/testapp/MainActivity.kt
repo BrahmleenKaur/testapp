@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         Log.i("tagmy","ok tag")
 
         Log.i("tagmy","ok tag2")
+        var Var="ndska"
 
     }
 }
